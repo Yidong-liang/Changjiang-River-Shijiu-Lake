@@ -1,29 +1,5 @@
-Including the OTU abundance table. R scripts for analyzing rda, pcoa, and glmm.
-# Install all dependencies
-pip install -r requirements.txt
-# R Package Dependency List
-# Generation Date: 2024
-# Analysis based on the provided R script
-# Applicable to R 4.4.1
-
-# CRAN package
-Artist = = 2.6-6
-Ggplot2 = = 3.5.1 track of
-Dplyr = = 1.1.4
-Lme4 = = 1.1 to 35.3
-MuMIn = = 1.47.5
-The car = = 3.1 2
-GgExtra = = 0.10.1
-
-# GitHub Package (Requires remotes installation)
-# laishan64/rdacca.hp@master # for hierarchical segmentation analysis
-
-
-# install.packages(c("vegan", "ggplot2", "dplyr", "lme4", "MuMIn", "car", "ggExtra"))
-
-
-# Install the remotes package (if not installed yet)
-install.packages("remotes")
-
-# Install the rdacca.hp package
-remotes::install_github("laishan64/rdacca.hp")
+# Including the OTU abundance table. 
+# The otu table includes data from four seasons, 15 points (3 duplicates), and 45 points.
+# The R package used in the drawing is provided
+# R scripts for analyzing rda, pcoa, and glmm.
+# Further information and requests for resources should be directed to and will be fulfilled by the lead contact, Dr. Yidong Liang.  All unique materials and datasets generated in this study are available from the lead contact upon reasonable request.  The code supporting the current study has been deposited and is publicly available on GitHub at https://github.com/Yidong-liang/Changjiang-River-Shijiu-Lake.
