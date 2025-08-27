@@ -1,0 +1,16 @@
+species	Coilia nasus	Protosalanx chinensis	Culter spp.	Culterinae spp.	Ctenopharyngodon idella	Culter dabryi	Elopichthys bambusa	Hemibarbus spp.	Carassius auratus	Hypophthalmichthys molitrix	Schizothoracinae spp.	Saurogobio dabryi	Saurogobio spp.	Leuciscinae spp.	Siniperca spp.	Rhinogobius	Mugilogobius myxodermus	Bagridae spp.	Silurus asotus	Mugil cephalus
+S1	0	213	36	31	0	0	0	0	0	516	82	0	0	1	0	0	0	0	0	0
+S2	1	3	1	5	0	0	2	0	1	4	0	0	0	0	0	0	0	0	0	3
+S3	0	0	164	149	0	0	9	0	134	341	0	10	0	0	0	0	0	0	111	0
+S4	0	9	71	1	0	0	0	0	52	4	0	0	0	0	0	0	0	0	0	0
+S5	2	0	12	1	0	0	0	0	0	208	0	0	0	0	0	0	0	0	1	0
+S6	0	0	48	8	0	1	0	0	0	17	0	0	0	1	0	0	0	0	0	0
+S7	181	0	244	34	0	1	0	203	0	235	0	0	73	0	0	0	0	0	0	0
+S8	2	3	1	2	0	0	1	0	4	3	1	0	0	0	2	0	0	0	0	0
+S9	1	70	84	53	0	2	0	0	5	67	2	0	0	0	1	0	0	102	0	0
+S10	0	0	2	3	0	1	1	0	4	2	1	0	0	0	1	0	0	0	0	0
+S11	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+S12	5542	194	1119	1349	3582	163	81	171	544	75	1557	262	0	171	0	0	804	43	48	1331
+S13	295	1	0	135	1047	0	0	1	229	0	68	0	0	0	162	112	0	0	2	7
+S14	3	2	0	2	2	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0
+S15	7	1	0	0	7	0	2	1	3	0	0	0	0	0	1	0	0	0	0	0

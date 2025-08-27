@@ -1,0 +1,16 @@
+sample	group
+S1	SL
+S2	SL
+S3	SL
+S4	SL
+S5	SL
+S6	RC
+S7	RC
+S8	RC
+S9	RC
+S10	RC
+S11	YR
+S12	YR
+S13	YR
+S14	YR
+S15	YR
