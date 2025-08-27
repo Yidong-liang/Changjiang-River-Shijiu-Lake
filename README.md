@@ -1,1 +1,29 @@
 Including the OTU abundance table. R scripts for analyzing rda, pcoa, and glmm.
+# Install all dependencies
+pip install -r requirements.txt
+# R Package Dependency List
+# Generation Date: 2024
+# Analysis based on the provided R script
+# Applicable to R 4.4.1
+
+# CRAN package
+Artist = = 2.6-6
+Ggplot2 = = 3.5.1 track of
+Dplyr = = 1.1.4
+Lme4 = = 1.1 to 35.3
+MuMIn = = 1.47.5
+The car = = 3.1 2
+GgExtra = = 0.10.1
+
+# GitHub Package (Requires remotes installation)
+# laishan64/rdacca.hp@master # for hierarchical segmentation analysis
+
+
+# install.packages(c("vegan", "ggplot2", "dplyr", "lme4", "MuMIn", "car", "ggExtra"))
+
+
+# Install the remotes package (if not installed yet)
+install.packages("remotes")
+
+# Install the rdacca.hp package
+remotes::install_github("laishan64/rdacca.hp")
